@@ -90,11 +90,7 @@ project-root/
 │   │   └── assets/
 
 🚀 Live Demo
-Frontend: mini-local-business-dashbo-git-350844-challa-samatha-s-projects.vercel.app
-
-
-📩 Submission
-Send the GitHub repo link and (optionally) live links in the assignment email.
+Frontend: mini-local-business-dashbo-git-350844-challa-samatha-s-projects.vercel.app.
 
 🧑‍💻 Author
 Samatha Challa
